@@ -1,0 +1,11 @@
+{
+  "name": "movi.es",
+  "version": "1.0.0",
+  "description": "Movi.es is just a challenge where I show all my knowledges about CSS Grid Layout ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@Jhsebastian",
+  "license": "ISC"
+}
