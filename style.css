@@ -1,0 +1,60 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family:'Noto Sans KR';
+}
+
+.header {
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  box-shadow: 0 0 15px rgba(0,0,0,.25);
+}
+
+
+
+.first-header {
+  display: flex;
+  color: red;
+  font-family: 'Lacquer';
+}
+
+.first-header input {
+  margin-top: 10px;
+  margin-left: 350px;
+  width: 500px;
+  height: 30px;
+  border-radius: 10px;
+  border: 2px solid gray;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.first-header input::placeholder {
+  padding-left: 10px;
+  font-size: 15px;
+  font-family: 'Noto Sans KR';
+}
+
+.logo-movi {
+  width: 50px;
+  height: 50px;
+}
+
+.user {
+  display: flex;
+  width: 230px;
+  justify-content: space-between;
+}
+
+.user img {
+  width: 50px;
+  height: 50px;
+  border-radius: 200px;
+  margin-right: 10px;
+}
+
+.user p {
+  width: 250px;
+  padding-right: 0;
+}
